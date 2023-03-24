@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T05:57:43.414Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="vuKlVD_HmKKsTVWvxhUX" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T07:13:22.360Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="ztnZx9GZC6-vIhrptS_C" version="21.0.10" type="github">
   <diagram id="TLU8fEAyNQ-OhAnARifZ" name="Страница 1">
     <mxGraphModel dx="2824" dy="4573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,7 +400,7 @@
         <mxCell id="w8NURa0f5OFi1lEBoypp-7" value="" style="group" vertex="1" connectable="0" parent="w8NURa0f5OFi1lEBoypp-2">
           <mxGeometry width="150" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="8wIIhX6IMqMjJVi14Pui-148" value="&lt;b&gt;get_published_api&lt;/b&gt;&lt;br&gt;Опубликованное API" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=21aG1TBDxjcq;" parent="w8NURa0f5OFi1lEBoypp-7" vertex="1">
+        <mxCell id="8wIIhX6IMqMjJVi14Pui-148" value="&lt;b&gt;get_published_api&lt;/b&gt;&lt;br&gt;Опубликованное и согласованное API" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=21aG1TBDxjcq;" parent="w8NURa0f5OFi1lEBoypp-7" vertex="1">
           <mxGeometry width="150" height="64" as="geometry" />
         </mxCell>
         <mxCell id="w8NURa0f5OFi1lEBoypp-1" value="teardown:&lt;br&gt;удаление подписки&lt;br&gt;удаление API" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=21aG1TBDxjcq;" vertex="1" parent="w8NURa0f5OFi1lEBoypp-7">
@@ -418,7 +418,7 @@
         <mxCell id="w8NURa0f5OFi1lEBoypp-9" value="" style="group" vertex="1" connectable="0" parent="w8NURa0f5OFi1lEBoypp-8">
           <mxGeometry width="215" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="w8NURa0f5OFi1lEBoypp-10" value="&lt;b&gt;get_published_api_with_subscription&lt;/b&gt;&lt;br&gt;Опубликованное API&lt;br&gt;Подписка на эту API" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=21aG1TBDxjcq;" vertex="1" parent="w8NURa0f5OFi1lEBoypp-9">
+        <mxCell id="w8NURa0f5OFi1lEBoypp-10" value="&lt;b&gt;get_published_api_with_subscription&lt;/b&gt;&lt;br&gt;Опубликованное согласованное API&lt;br&gt;Подписка на эту API" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=21aG1TBDxjcq;" vertex="1" parent="w8NURa0f5OFi1lEBoypp-9">
           <mxGeometry width="215" height="64" as="geometry" />
         </mxCell>
         <mxCell id="w8NURa0f5OFi1lEBoypp-11" value="teardown:&lt;br&gt;удаление подписки&lt;br&gt;удаление API" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=21aG1TBDxjcq;" vertex="1" parent="w8NURa0f5OFi1lEBoypp-9">
