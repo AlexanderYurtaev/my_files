@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T08:28:08.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="7IBs_lSx9ERGfMkCNbSe" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T08:32:04.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="zFsGdZ6eC8rbU4PC3T0i" version="21.1.1" type="github">
   <diagram id="TLU8fEAyNQ-OhAnARifZ" name="Страница 1">
     <mxGraphModel dx="2824" dy="4573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,9 +369,6 @@
         <mxCell id="XmF13I8RruSuAjKzp-kF-2" value="Тесты&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="-940" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ezfLOejJH9Y_Za3DY-dV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XmF13I8RruSuAjKzp-kF-3" target="XmF13I8RruSuAjKzp-kF-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XmF13I8RruSuAjKzp-kF-3" value="Фикстуры" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-200" y="-940" width="280" height="100" as="geometry" />
         </mxCell>
@@ -476,8 +473,8 @@
         <mxCell id="w8NURa0f5OFi1lEBoypp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w8NURa0f5OFi1lEBoypp-28" target="w8NURa0f5OFi1lEBoypp-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w8NURa0f5OFi1lEBoypp-32" value="LIbraries" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-495" y="-555" width="590" height="60" as="geometry" />
+        <mxCell id="w8NURa0f5OFi1lEBoypp-32" value="LIbraries" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-495" y="-555" width="590" height="105" as="geometry" />
         </mxCell>
         <mxCell id="ezfLOejJH9Y_Za3DY-dV-1" value="Payload generator ???" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="-675" width="120" height="60" as="geometry" />
@@ -497,11 +494,26 @@
         <mxCell id="XmF13I8RruSuAjKzp-kF-9" value="Log manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-360" y="-675" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ezfLOejJH9Y_Za3DY-dV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.765;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ezfLOejJH9Y_Za3DY-dV-11" target="XmF13I8RruSuAjKzp-kF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezfLOejJH9Y_Za3DY-dV-11" value="через API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="-910" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ezfLOejJH9Y_Za3DY-dV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ezfLOejJH9Y_Za3DY-dV-12" target="ezfLOejJH9Y_Za3DY-dV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ezfLOejJH9Y_Za3DY-dV-12" value="через DB?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-910" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezfLOejJH9Y_Za3DY-dV-14" value="DB manager ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezfLOejJH9Y_Za3DY-dV-17" value="requests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-520" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezfLOejJH9Y_Za3DY-dV-19" value="logger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-392.5" y="-520" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
