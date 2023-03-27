@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T06:33:26.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="OFvyNzPZnf5wXB8NHP2x" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T17:37:09.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" etag="levMbNVw1a8Gg84LCaMv" version="21.1.1" type="github">
   <diagram id="TLU8fEAyNQ-OhAnARifZ" name="Страница 1">
     <mxGraphModel dx="2824" dy="4573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -518,17 +518,20 @@
         <mxCell id="ezfLOejJH9Y_Za3DY-dV-19" value="logger" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-492.5" y="-520" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O1xqqZkS_VdmGz6PFEvQ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1xqqZkS_VdmGz6PFEvQ-1" target="w8NURa0f5OFi1lEBoypp-5">
+        <mxCell id="O1xqqZkS_VdmGz6PFEvQ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O1xqqZkS_VdmGz6PFEvQ-1" target="w8NURa0f5OFi1lEBoypp-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1xqqZkS_VdmGz6PFEvQ-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1xqqZkS_VdmGz6PFEvQ-1" target="8wIIhX6IMqMjJVi14Pui-126">
+        <mxCell id="O1xqqZkS_VdmGz6PFEvQ-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O1xqqZkS_VdmGz6PFEvQ-1" target="8wIIhX6IMqMjJVi14Pui-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1xqqZkS_VdmGz6PFEvQ-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1xqqZkS_VdmGz6PFEvQ-1" target="w8NURa0f5OFi1lEBoypp-19">
+        <mxCell id="O1xqqZkS_VdmGz6PFEvQ-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="O1xqqZkS_VdmGz6PFEvQ-1" target="w8NURa0f5OFi1lEBoypp-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1xqqZkS_VdmGz6PFEvQ-1" value="Блокировка подписки&lt;br&gt;187396" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=NVgFTFySkRIj;" vertex="1" parent="1">
+        <mxCell id="O1xqqZkS_VdmGz6PFEvQ-1" value="Блокировка подписки&lt;br&gt;187396" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=NVgFTFySkRIj;" parent="1" vertex="1">
           <mxGeometry x="80" y="-1480.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D7JouzgSdKYdKJIGmkKF-2" value="pydantic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-396" y="-520" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
